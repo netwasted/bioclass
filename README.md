@@ -7,3 +7,5 @@
 
 ## Ссылка на ноутбук
 https://colab.research.google.com/drive/1Q4Ndfsa5HOoLfMsi_NYVM--J8FpWWPHG?usp=sharing
+
+!!!
